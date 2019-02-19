@@ -1,11 +1,15 @@
 ---
 layout: page
-title: Photon Design System
+title: Thunderbird Design System
 ---
+
+![Thunderbird Logo](images/product-identity-assets/thunderbird.svg)
 
 Launch recognizable, enjoyable Thunderbird features faster.
 
 Photon is the Firefox design language to build modern, intuitive, delightful experiences, for products across all platforms – from mobile to desktop, from TV to the next big thing.
+
+**The Thunderbird Design System is based on the Photon system created for Firefox but stripped down to suit for Thunderbird needs.**
 
 The Photon Design System houses guidelines, reusable UI components, templates, and other resources to help you create products for Thunderbird users. It is flexible and always evolving to serve the best Thunderbird experience for every situation.
 
@@ -20,7 +24,7 @@ You can help us improve the system and ensure it remains current and relevant.
 
 #### Share with us
 
-  [Share with us](https://github.com/firefoxux/photon/issues) so we can add or improve components and patterns.
+  [Share with us](https://github.com/thundernest/photon/issues) so we can add or improve components and patterns.
 </div>
 
 <div markdown="1">
@@ -28,7 +32,7 @@ You can help us improve the system and ensure it remains current and relevant.
 
 #### File an issue
 
-  [Let us know](https://github.com/firefoxux/photon/issues) if we are missing components or our advice isn’t clear and actionable.
+  [Let us know](https://github.com/thundernest/photon/issues) if we are missing components or our advice isn’t clear and actionable.
 </div>
 
 <div markdown="1">
@@ -36,6 +40,6 @@ You can help us improve the system and ensure it remains current and relevant.
 
 #### Read the wiki
 
-  [Learn how](https://github.com/firefoxux/photon/wiki/Getting-Started) to become a project contributor.
+  [Learn how](https://www.thunderbird.net/en-US/get-involved/) to become a project contributor.
 </div>
 </div>

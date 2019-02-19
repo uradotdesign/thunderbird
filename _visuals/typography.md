@@ -55,13 +55,13 @@ Use a secondary color for accompanying text that adds further information, detai
 The number of characters per line influences readability. Studies indicate the following guidelines for English:
 
 * **Satisfactory** \\
-  45-75 characters (desktop) or 35-40 characters (mobile) per line is widely regarded as a satisfactory line length.
+  45-75 characters per line is widely regarded as a satisfactory line length.
 
 * **Optimal** \\
-  Around 66 characters (desktop) or 39 characters (mobile) is optimal.
+  Around 66 characters is optimal.
 
 * **Too long** \\
-  More than 90 characters (desktop) or 50 characters (mobile) is likely too long for continuous reading.
+  More than 90 characters is likely too long for continuous reading.
 
 ![line length](../images/typography/typography-linelength.svg)
 
